@@ -18,4 +18,5 @@
 ## cloning an existing repo
 1. git clone https://github.com/kaypoo93/cohort6-git-repo.git
 2. cd "Repo"
+3. ls "files"
 
