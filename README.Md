@@ -16,6 +16,6 @@
 - git switch main
 
 ## cloning an existing repo
-1. git clone git@github.com:kaypoo93/cohort6-git-repo.git
+1. git clone https://github.com/kaypoo93/cohort6-git-repo.git
 2. cd "Repo"
 
